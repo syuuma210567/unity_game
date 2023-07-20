@@ -1,0 +1,23 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!1045 &1
+EditorBuildSettings:
+  m_ObjectHideFlags: 0
+  serializedVersion: 2
+  m_Scenes:
+  - enabled: 1
+    path: Assets/Scenes/TitleScene.unity
+    guid: e7d41463bdaa9254a9b16820ea96da09
+  - enabled: 1
+    path: Assets/Scenes/HandiCapScene.unity
+    guid: 0e8b1ac94d54b93479ed900585f61a31
+  - enabled: 1
+    path: Assets/Scenes/SampleScene.unity
+    guid: 9fc0d4010bbf28b4594072e72b8655ab
+  - enabled: 1
+    path: Assets/Scenes/PvPScene.unity
+    guid: c4c7710204e4ab64fba6817aba25c88a
+  - enabled: 1
+    path: Assets/Scenes/ResultScene.unity
+    guid: 17bf32338b7608f429d250f069cb1256
+  m_configObjects: {}
